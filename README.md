@@ -2,40 +2,6 @@
 
 ## GRP1 Task 2
 
-## Table of Contents
-
-- 1. Introduction | 1
-  - 1.1 Authority | 1
-  - 1.2 Purpose and Scope | 1
-  - 1.3 Audience | 2
-  - 1.4 Document Structure | 2
-- 2. WLAN Vulnerabilities | 2
-  - 2.1 Rogue Access Points | 2
-  - 2.2. Evil Twins | 3
-- 3. Mobile Device Vulnerabilities | 4
-  - 3.1. Loss or Theft of Mobile Devices | 4
-  - 3.2. Wireless Eavesdropping | 4
-- 4. Mitigating WLAN Vulnerabilities | 5
-  - 4.1. 802.11i Authentication and Encryption | 5
-  - 4.2. User Training and Awareness Activities | 5
-- 5. Mitigating Mobile Device Vulnerabilities | 6
-  - 5.1. Using EMM Technologies | 6
-  - 5.1.1. EMM Implementation | 6
-  - 5.2. Encryption | 7
-  - 5.2.1. Encryption Implementation | 7
-  - 5.3. VPN | 8
-  - 5.3.1. VPN Implementation | 8
-- 6. Preventative Measure for WLAN Vulnerabilities | 8
-  - 6.1. Password Policy | 8
-- 7. Preventative Measure for Mobile Vulnerabilities | 9
-  - 7.1. Containerization | 9
-- 8. PCI DSS Explained | 9
-  - 8.1. Objective and Requirements for PCI DSS | 9
-  - 8.2. Compliance with PCI DSS | 10
-  - 8.3. Consequences of Non-Compliance | 10
-- 9. Recommended BYOD Approach | 10
-  - References | 11
-
 # 1. Introduction
 
 Alliah has recently experienced tremendous growth, expanding its operations and workforce. This growth has enabled the organization to improve its services and increase its revenue. However, with this expansion comes new challenges, particularly in wireless local area network (WLAN) and mobile device security. The organization must address WLAN and mobile device vulnerabilities that can propagate from this growth to ensure the safety and security of its network and the sensitive data within it.
