@@ -184,21 +184,21 @@ Organizations that fail to comply with PCI DSS can face significant consequences
 
 BYOD policies remove most upfront administrative costs associated with supplying devices to employees. However, BYOD leaves Alliah and its data vulnerable to compromise. Until Alliah sees enough net profit to afford conversion from a BYOD policy to a CYOD, COPE, or COBO policy, it should mitigate the security risks its experiencing. It can do so by implementing Enterprise Mobility Management technologies like MDM, MIM, and MAM. These technologies can regulate devices and their compliance with company policies. Next, devices must have a strict password policy and multi-factor authentication. Alliah must also use containerization to separate company data from personal data and VPNs to protect sensitive data in transit. Finally, Alliah should either acquire a security awareness training solution from an organization like the SANS Institute or use NIST 800-16 to assist in developing their solution. While no combination of methods is bulletproof, taking these steps will increase the organization’s security posture and give it more room to adjust to growth.
 
-References
-Boeckl, K. (2022, November 29). Mobile Device Security: Bring Your Own Device (BYOD) (2nd Draft). https://csrc.nist.gov/publications/detail/sp/1800-22/draft
-Computer Security Division, Information Technology Laboratory, National Institute of Standards and Technology, U.S. Department of Commerce. (n.d.). Awareness, Training, & Education | CSRC | CSRC. https://csrc.nist.gov/Projects/Awareness-Training-Education
-Doherty, J. (2021, April). Wireless and mobile device security. Jones & Bartlett Learning, LLC.
-Frankel, S. E., Eydt, B., Owens, L., & Scarfone, K. A. (2007). Establishing wireless robust security networks : https://doi.org/10.6028/nist.sp.800-97
-Frankel, S. E., Hoffman, P., Orebaugh, A., & Park, R. S. (2008). Guide to SSL VPNs. https://doi.org/10.6028/nist.sp.800-113
-Fruhlinger, J. (2022, May 16). PCI DSS explained: Requirements, fines, and steps to compliance. CSO Online. https://www.csoonline.com/article/3566072/pci-dss-explained-requirements-fines-and-steps-to-compliance.html
-IBM Documentation. (n.d.). https://www.ibm.com/docs/hr/sgklm/4.1?topic=overview-cryptographic-algorithm-key-length
-Keysight. (2022, July 14). BYOD Mitigation Starts in the WLAN. Keysight. https://www.keysight.com/us/en/assets/3120-1055/white-papers/BYOD-Mitigation-Starts-in-the-WLAN.pdf?success=true
-Ledesma, J. (2022, June 29). Evil Twin Attack: What it is, How to Detect & Prevent it. Data Security. https://www.varonis.com/blog/evil-twin-attack
+# References
+- Boeckl, K. (2022, November 29). Mobile Device Security: Bring Your Own Device (BYOD) (2nd Draft). https://csrc.nist.gov/publications/detail/sp/1800-22/draft
+- Computer Security Division, Information Technology Laboratory, National Institute of Standards and Technology, U.S. Department of Commerce. (n.d.). Awareness, Training, & Education | CSRC | CSRC. https://csrc.nist.gov/Projects/Awareness-Training-Education
+- Doherty, J. (2021, April). Wireless and mobile device security. Jones & Bartlett Learning, LLC.
+- Frankel, S. E., Eydt, B., Owens, L., & Scarfone, K. A. (2007). Establishing wireless robust security networks : https://doi.org/10.6028/nist.sp.800-97
+- Frankel, S. E., Hoffman, P., Orebaugh, A., & Park, R. S. (2008). Guide to SSL VPNs. https://doi.org/10.6028/nist.sp.800-113
+- Fruhlinger, J. (2022, May 16). PCI DSS explained: Requirements, fines, and steps to compliance. CSO Online. https://www.csoonline.com/article/3566072/pci-dss-explained-requirements-fines-and-steps-to-compliance.html
+- IBM Documentation. (n.d.). https://www.ibm.com/docs/hr/sgklm/4.1?topic=overview-cryptographic-algorithm-key-length
+- Keysight. (2022, July 14). BYOD Mitigation Starts in the WLAN. Keysight. https://www.keysight.com/us/en/assets/3120-1055/white-papers/BYOD-Mitigation-Starts-in-the-WLAN.pdf?success=true
+- Ledesma, J. (2022, June 29). Evil Twin Attack: What it is, How to Detect & Prevent it. Data Security. https://www.varonis.com/blog/evil-twin-attack
 
-Osborne, C. (2020, February 6). Health Share of Oregon discloses data breach, theft of member PII. ZDNET. https://www.zdnet.com/article/health-share-of-oregon-discloses-data-breach-theft-of-member-pii/
-Robb, D. (2023). Best Enterprise Mobility Management (EMM) Solutions. eSecurityPlanet. https://www.esecurityplanet.com/products/enterprise-mobility-management/
-Souppaya, M. (2023). Guidelines for Managing the Security of Mobile Devices in the Enterprise. https://doi.org/10.6028/nist.sp.800-124r2
-Souppaya, M., & Scarfone, K. A. (2012). Guidelines for securing Wireless Local Area Networks (WLANs). https://doi.org/10.6028/nist.sp.800-153
-What is encryption and how does it protect your data? (n.d.). https://us.norton.com/blog/privacy/what-is-encryption
-What is Enterprise Mobility Management (EMM)? | VMware. (2023, March 14). VMware. https://www.vmware.com/topics/glossary/content/enterprise-mobility-management.html
-Wilson, M., De Zafra, D. E., Pitcher, S., Tressler, J., & Ippolito, J. (1998). Information technology security training requirements : https://doi.org/10.6028/nist.sp.800-16
+- Osborne, C. (2020, February 6). Health Share of Oregon discloses data breach, theft of member PII. ZDNET. https://www.zdnet.com/article/health-share-of-oregon-discloses-data-breach-theft-of-member-pii/
+- Robb, D. (2023). Best Enterprise Mobility Management (EMM) Solutions. eSecurityPlanet. https://www.esecurityplanet.com/products/enterprise-mobility-management/
+- Souppaya, M. (2023). Guidelines for Managing the Security of Mobile Devices in the Enterprise. https://doi.org/10.6028/nist.sp.800-124r2
+- Souppaya, M., & Scarfone, K. A. (2012). Guidelines for securing Wireless Local Area Networks (WLANs). https://doi.org/10.6028/nist.sp.800-153
+- What is encryption and how does it protect your data? (n.d.). https://us.norton.com/blog/privacy/what-is-encryption
+- What is Enterprise Mobility Management (EMM)? | VMware. (2023, March 14). VMware. https://www.vmware.com/topics/glossary/content/enterprise-mobility-management.html
+- Wilson, M., De Zafra, D. E., Pitcher, S., Tressler, J., & Ippolito, J. (1998). Information technology security training requirements : https://doi.org/10.6028/nist.sp.800-16
